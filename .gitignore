@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/.vs/Oerri/FileContentIndex
+/.vs/Oerri/v17/ipch/AutoPCH/87d6ffc973f6a0ba
+/.vs/Oerri/v17/Browse.VC.opendb
+/.vs/Oerri/v17/Browse.VC.db-wal
+/.vs/Oerri/v17/Browse.VC.db-shm
+/.vs/Oerri/v17/Browse.VC.db
+/.vs/Oerri/v17/.wsuo
+/.vs/shakki
+/Debug
+/.vs/Oerri/v17/ipch/AutoPCH
+/shakki/Debug
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/Oerri/FileContentIndex/1e6143c6-d17f-4d99-9f1b-7038a11b2a2f.vsidx
+/CppProperties.json
+/shakki/Release
+/Release
